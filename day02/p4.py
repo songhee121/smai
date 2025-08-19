@@ -24,7 +24,6 @@ if __name__ == '__main__':
     print(d1)
     print(d1["a"])
 
-    print("\n")
     d2={"name":"정태원", "age":32, "major":"ee"}
     print(d2["name"])
     print(d2["age"])
@@ -35,7 +34,7 @@ if __name__ == '__main__':
         {"name": "조태희", "age": 28, "major": "sw"},
         {"name": "머하지", "age": 20, "major": "sw"}
     ]
-    print("\n")
+    print("\n", sts)
 
     #응용
     #전체 학과 학생의 나이 합과 평균
