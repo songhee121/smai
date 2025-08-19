@@ -8,3 +8,4 @@ if __name__ == '__main__':
     print(list1)
     list1.remove(3)
     print(list1)
+    #list는 중복된 값 삽입 가능
