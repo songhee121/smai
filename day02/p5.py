@@ -1,5 +1,5 @@
 if __name__ == '__main__':
-    #File Write & Read
+    #File Write & Read// 텍스트
     with open("data/mytext.txt", "w", encoding="utf-8")as f:
         print("파일 라인1", file=f)
         f.write("파일 Write")
